@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", function() {
     // Create Map with India center coordinates
     const map = L.map('map', {
         center: [23, 83],
-        zoom: 4.5,
-        minZoom: 4.5
+        zoom: 4.4,
+        minZoom: 4.4
     });
 
     // Add a tile layer to the map
@@ -59,6 +59,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // zoom in-out
     function handleStateClick(e, layer, map) {
+        clearSidebar();
+        clearImagebar();
         const stateName = layer.feature.properties.ST_NM;
         map.fitBounds(e.target.getBounds());
         fetchPlacesByState(stateName);
@@ -116,6 +118,7 @@ document.addEventListener("DOMContentLoaded", function() {
             circleMarker.addTo(map);
             circleMarker.on('click', () => handleMapMarkerClick(place.id));
         });
+
     }
 
     // Function to reset marker sizes to original
@@ -214,6 +217,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Link sidebar and places
     function displayPlacesInSidebar(places) {
+        clearSidebar();
+        clearImagebar();
         var statePlacesList = document.getElementById('statePlacesList');
         statePlacesList.innerHTML = '';
 
@@ -235,13 +240,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Function to reset map view to initial zoom and center coordinates
     function resetMapView() {
-        map.setView([23, 83], 4.5); // Set the view to India's center coordinates and initial zoom
+        map.setView([23, 83], 4.4); // Set the view to India's center coordinates and initial zoom
     }
 
     // Add event listeners to legend categories
     const legendCategories = document.querySelectorAll('.legendCategory');
     legendCategories.forEach(category => {
-        category.addEventListener('click', function() {
+        clearSidebar();
+         category.addEventListener('click', function() {
             const selectedCategory = this.dataset.category;
             filterPlacesByCategory(selectedCategory);
             updateSidebarTitle(selectedCategory);
@@ -292,6 +298,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const places = Categories_places.features.filter(place => place.properties.Category === category);
     
         clearSidebar(); // Clear the sidebar content
+        clearImagebar();
         displayPlacesInSidebar(places); // Display new places
         displayPlacesOnMap(places); // Display places on the map
         addSidebarEventListeners(places);
@@ -304,7 +311,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Event listeners for map markers and sidebar items
     function addEventListenersForPlaces(places) {
         const sidebarListItems = document.getElementById('statePlacesList').children; 
-        
+        clearImagebar();
         places.forEach((place, index) => {
             const placeID = place.id; // Use the ID from Categories_places.js
 
@@ -328,7 +335,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Function to handle map marker click
     function handleMapMarkerClick(placeID) {
         console.log('Marker clicked:', placeID);
-
+        clearImagebar();
         const marker = map._layers[placeID];
         const place = Categories_places.features.find(place => place.id === placeID);
         console.log('Place data:', place);
