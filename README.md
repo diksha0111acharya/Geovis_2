@@ -1,2 +1,1 @@
-# Carte magnifique
-Mais vide pour le moment.
+# Carte interactive: Indian Tourist Map
