@@ -1,0 +1,506 @@
+[
+ {
+  "Places": "Arunachala",
+  "States": "Tamil Nadu",
+  "Category": "Culture and Religion",
+  "latitude": 12.18,
+  "longitude": 79.04
+ },
+ {
+  "Places": "Asirgarh Fort",
+  "States": "Madhya Pradesh",
+  "Category": "Heritage Sites",
+  "latitude": 21.47,
+  "longitude": 76.29
+ },
+ {
+  "Places": "Athirappilly Falls",
+  "States": "Kerala",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 10.29,
+  "longitude": 76.57
+ },
+ {
+  "Places": "Badi Lake",
+  "States": "Rajasthan",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 24.37,
+  "longitude": 73.37
+ },
+ {
+  "Places": "Baneshwar Temple",
+  "States": "Maharashtra",
+  "Category": "Culture and Religion",
+  "latitude": 18.26,
+  "longitude": 73.87
+ },
+ {
+  "Places": "Barachukki Falls",
+  "States": "Karnataka",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 12.29,
+  "longitude": 77.18
+ },
+ {
+  "Places": "Bawangaja",
+  "States": "Madhya Pradesh",
+  "Category": "Culture and Religion",
+  "latitude": 21.98,
+  "longitude": 74.85
+ },
+ {
+  "Places": "Bhaja Caves",
+  "States": "Maharashtra",
+  "Category": "Heritage Sites",
+  "latitude": 18.73,
+  "longitude": 73.48
+ },
+ {
+  "Places": "Bishnupur",
+  "States": "West Bengal ",
+  "Category": "Heritage Sites",
+  "latitude": 23.07,
+  "longitude": 87.32
+ },
+ {
+  "Places": "Black Taj Mahal",
+  "States": "Madhya Pradesh",
+  "Category": "Heritage Sites",
+  "latitude": 21.33,
+  "longitude": 76.24
+ },
+ {
+  "Places": "Borra Caves",
+  "States": "Andhra Pradesh",
+  "Category": "Natural Landscapes",
+  "latitude": 18.28,
+  "longitude": 83.04
+ },
+ {
+  "Places": "Butterly Beach",
+  "States": "Goa",
+  "Category": "Coast and Beaches",
+  "latitude": 15.02,
+  "longitude": 74
+ },
+ {
+  "Places": "Buxa Tiger Reserve",
+  "States": "West Bengal ",
+  "Category": "Wildlife and Safari",
+  "latitude": 26.62,
+  "longitude": 89.53
+ },
+ {
+  "Places": "Chitrakote Falls",
+  "States": "Chhattisgarh",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 19.21,
+  "longitude": 81.7
+ },
+ {
+  "Places": "Chittorgarh Fort",
+  "States": "Rajasthan",
+  "Category": "Heritage Sites",
+  "latitude": 24.88,
+  "longitude": 74.65
+ },
+ {
+  "Places": "Chunchi Falls",
+  "States": "Karnataka",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 12.35,
+  "longitude": 77.45
+ },
+ {
+  "Places": "Daman Quarry Lake",
+  "States": "Daman & Diu",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 20.44,
+  "longitude": 72.87
+ },
+ {
+  "Places": "Dawki River",
+  "States": "Meghalaya",
+  "Category": "Natural Landscapes",
+  "latitude": 25.2,
+  "longitude": 92.02
+ },
+ {
+  "Places": "Dirang",
+  "States": "Arunanchal Pradesh",
+  "Category": "Natural Landscapes",
+  "latitude": 27.35,
+  "longitude": 92.28
+ },
+ {
+  "Places": "Double Living Root Bridge",
+  "States": "Meghalaya",
+  "Category": "Natural Landscapes",
+  "latitude": 25.3,
+  "longitude": 91
+ },
+ {
+  "Places": "Dudhwa National Park",
+  "States": "Uttar Pradesh",
+  "Category": "Wildlife and Safari",
+  "latitude": 28.49,
+  "longitude": 80.65
+ },
+ {
+  "Places": "Gorumara National Park",
+  "States": "West Bengal ",
+  "Category": "Wildlife and Safari",
+  "latitude": 26.76,
+  "longitude": 88.8
+ },
+ {
+  "Places": "Gurez Valley",
+  "States": "Jammu & Kashmir         ",
+  "Category": "Natural Landscapes",
+  "latitude": 34.65,
+  "longitude": 74.74
+ },
+ {
+  "Places": "Hampi",
+  "States": "Karnataka",
+  "Category": "Culture and Religion",
+  "latitude": 15.34,
+  "longitude": 76.46
+ },
+ {
+  "Places": "Hirekolale Lake",
+  "States": "Karnataka",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 13.36,
+  "longitude": 75.71
+ },
+ {
+  "Places": "Jibhi",
+  "States": "Himachal Pradesh",
+  "Category": "Natural Landscapes",
+  "latitude": 31.59,
+  "longitude": 77.35
+ },
+ {
+  "Places": "Kalo Dungar",
+  "States": "Gujarat",
+  "Category": "Natural Landscapes",
+  "latitude": 23.93,
+  "longitude": 69.81
+ },
+ {
+  "Places": "Karwar",
+  "States": "Karnataka",
+  "Category": "Coast and Beaches",
+  "latitude": 14.81,
+  "longitude": 74.13
+ },
+ {
+  "Places": "Kaziranga National Park",
+  "States": "Assam",
+  "Category": "Wildlife and Safari",
+  "latitude": 26.58,
+  "longitude": 93.17
+ },
+ {
+  "Places": "Koteshwar",
+  "States": "Gujarat",
+  "Category": "Culture and Religion",
+  "latitude": 23.69,
+  "longitude": 68.53
+ },
+ {
+  "Places": "Kumarakom",
+  "States": "Kerala",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 9.62,
+  "longitude": 76.43
+ },
+ {
+  "Places": "Kunzum Pass",
+  "States": "Himachal Pradesh",
+  "Category": "Natural Landscapes",
+  "latitude": 32.4,
+  "longitude": 77.64
+ },
+ {
+  "Places": "Kurseong",
+  "States": "West Bengal ",
+  "Category": "Natural Landscapes",
+  "latitude": 26.88,
+  "longitude": 88.28
+ },
+ {
+  "Places": "Lakhpat",
+  "States": "Gujarat",
+  "Category": "Heritage Sites",
+  "latitude": 23.81,
+  "longitude": 68.77
+ },
+ {
+  "Places": "Lothal",
+  "States": "Gujarat",
+  "Category": "Heritage Sites",
+  "latitude": 22.52,
+  "longitude": 72.25
+ },
+ {
+  "Places": "Madhugiri Fort",
+  "States": "Karnataka",
+  "Category": "Heritage Sites",
+  "latitude": 13.65,
+  "longitude": 77.2
+ },
+ {
+  "Places": "Mandarmani Beach",
+  "States": "West Bengal ",
+  "Category": "Coast and Beaches",
+  "latitude": 21.65,
+  "longitude": 87.64
+ },
+ {
+  "Places": "Mandav",
+  "States": "Madhya Pradesh",
+  "Category": "Heritage Sites",
+  "latitude": 22.33,
+  "longitude": 75.4
+ },
+ {
+  "Places": "Mandvi Beach",
+  "States": "Gujarat",
+  "Category": "Coast and Beaches",
+  "latitude": 22.83,
+  "longitude": 69.36
+ },
+ {
+  "Places": "Marine National Park",
+  "States": "Gujarat",
+  "Category": "Wildlife and Safari",
+  "latitude": 22.4,
+  "longitude": 69.2
+ },
+ {
+  "Places": "Medak Cathedral",
+  "States": "Telangana",
+  "Category": "Culture and Religion",
+  "latitude": 18.05,
+  "longitude": 78.27
+ },
+ {
+  "Places": "Mineral Museum",
+  "States": "Maharashtra",
+  "Category": "Natural Landscapes",
+  "latitude": 19.87,
+  "longitude": 73.97
+ },
+ {
+  "Places": "Mulki Temple",
+  "States": "Karnataka",
+  "Category": "Culture and Religion",
+  "latitude": 13.09,
+  "longitude": 74.8
+ },
+ {
+  "Places": "Naliya Jain Temple",
+  "States": "Gujarat",
+  "Category": "Culture and Religion",
+  "latitude": 23.26,
+  "longitude": 68.83
+ },
+ {
+  "Places": "Narasimha Swamy Temple",
+  "States": "Andhra Pradesh",
+  "Category": "Culture and Religion",
+  "latitude": 15.13,
+  "longitude": 78.67
+ },
+ {
+  "Places": "Neemrana Fort",
+  "States": "Rajasthan",
+  "Category": "Heritage Sites",
+  "latitude": 27.99,
+  "longitude": 76.39
+ },
+ {
+  "Places": "Neora Valley",
+  "States": "West Bengal ",
+  "Category": "Wildlife and Safari",
+  "latitude": 27.08,
+  "longitude": 88.7
+ },
+ {
+  "Places": "Nubra Valley",
+  "States": "Jammu & Kashmir         ",
+  "Category": "Natural Landscapes",
+  "latitude": 34.69,
+  "longitude": 77.57
+ },
+ {
+  "Places": "Orchha",
+  "States": "Madhya Pradesh",
+  "Category": "Heritage Sites",
+  "latitude": 25.35,
+  "longitude": 78.64
+ },
+ {
+  "Places": "Pachmarhi",
+  "States": "Madhya Pradesh",
+  "Category": "Heritage Sites",
+  "latitude": 22.47,
+  "longitude": 78.43
+ },
+ {
+  "Places": "Pangong Lake",
+  "States": "Jammu & Kashmir         ",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 33.76,
+  "longitude": 78.67
+ },
+ {
+  "Places": "Pichavaram Forest",
+  "States": "Tamil Nadu",
+  "Category": "Natural Landscapes",
+  "latitude": 11.43,
+  "longitude": 79.78
+ },
+ {
+  "Places": "Pingleshwar Beach",
+  "States": "Gujarat",
+  "Category": "Coast and Beaches",
+  "latitude": 23.07,
+  "longitude": 68.8
+ },
+ {
+  "Places": "Querim Beach",
+  "States": "Goa",
+  "Category": "Coast and Beaches",
+  "latitude": 15.72,
+  "longitude": 73.69
+ },
+ {
+  "Places": "Rajgir",
+  "States": "Bihar",
+  "Category": "Culture and Religion",
+  "latitude": 25.03,
+  "longitude": 85.42
+ },
+ {
+  "Places": "Ranakpur",
+  "States": "Rajasthan",
+  "Category": "Culture and Religion",
+  "latitude": 25.12,
+  "longitude": 73.47
+ },
+ {
+  "Places": "Ranthambore",
+  "States": "Rajasthan",
+  "Category": "Heritage Sites",
+  "latitude": 26.02,
+  "longitude": 76.5
+ },
+ {
+  "Places": "Reverse Waterfall",
+  "States": "Maharashtra",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 17.5,
+  "longitude": 73.82
+ },
+ {
+  "Places": "Rewalsar",
+  "States": "Himachal Pradesh",
+  "Category": "Culture and Religion",
+  "latitude": 31.63,
+  "longitude": 76.83
+ },
+ {
+  "Places": "Sainj Valley",
+  "States": "Himachal Pradesh",
+  "Category": "Wildlife and Safari",
+  "latitude": 31.77,
+  "longitude": 77.31
+ },
+ {
+  "Places": "Surya Lanka Beach",
+  "States": "Andhra Pradesh",
+  "Category": "Coast and Beaches",
+  "latitude": 15.85,
+  "longitude": 80.53
+ },
+ {
+  "Places": "Swaraj Dweep",
+  "States": "Andaman & Nicobar Island",
+  "Category": "Coast and Beaches",
+  "latitude": 11.98,
+  "longitude": 92.99
+ },
+ {
+  "Places": "Tamhini Ghat",
+  "States": "Maharashtra",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 18.48,
+  "longitude": 73.46
+ },
+ {
+  "Places": "Triund",
+  "States": "Himachal Pradesh",
+  "Category": "Natural Landscapes",
+  "latitude": 32.26,
+  "longitude": 76.36
+ },
+ {
+  "Places": "Unakoti Rock Carvings",
+  "States": "Tripura",
+  "Category": "Heritage Sites",
+  "latitude": 24.32,
+  "longitude": 92.07
+ },
+ {
+  "Places": "Virasat-E-Khalsa",
+  "States": "Punjab",
+  "Category": "Culture and Religion",
+  "latitude": 31.23,
+  "longitude": 76.51
+ },
+ {
+  "Places": "Wei Sawdong Falls",
+  "States": "Meghalaya",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 25.29,
+  "longitude": 91.68
+ },
+ {
+  "Places": "Yana Caves",
+  "States": "Karnataka",
+  "Category": "Culture and Religion",
+  "latitude": 14.59,
+  "longitude": 74.57
+ },
+ {
+  "Places": "Yarada Beach",
+  "States": "Andhra Pradesh",
+  "Category": "Coast and Beaches",
+  "latitude": 17.65,
+  "longitude": 83.27
+ },
+ {
+  "Places": "Yercaud",
+  "States": "Tamil Nadu",
+  "Category": "Lakes and Waterfalls",
+  "latitude": 11.77,
+  "longitude": 78.21
+ },
+ {
+  "Places": "Zanskar",
+  "States": "Jammu & Kashmir         ",
+  "Category": "Natural Landscapes",
+  "latitude": 33.56,
+  "longitude": 76.99
+ },
+ {
+  "Places": "Ziro Valley",
+  "States": "Arunanchal Pradesh",
+  "Category": "Natural Landscapes",
+  "latitude": 27.55,
+  "longitude": 93.82
+ }
+]

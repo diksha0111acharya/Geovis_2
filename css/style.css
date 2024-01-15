@@ -1,0 +1,157 @@
+/* texte */
+.titre {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+    color: #352004fc;
+    width: 70%;
+    margin-left: 28px;    
+    text-shadow:
+      -1px -1px 0 wheat,
+      1px -1px 0 wheat,
+      -1px 1px 0 wheat,
+      1px 1px 0 wheat,
+
+}
+
+.sous-titre {
+  font-size: 12;
+  color: #000000;
+}
+
+/* main */
+.main {
+    position: relative;
+    height: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/* Background*/
+.background-image {
+  background: url('background/background.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* Map position */
+.India_map {
+  position: relative;
+  left: 0.5%;
+  height: calc((100vh - 110px));
+  width: calc((100vw - 500px));
+}
+
+/* sidebar with places to visit*/
+.sidebar{
+  position: absolute;
+  top: 26.8%;
+  right: 0.8%;
+  background-color: rgba(255, 183, 0, 0.7);
+  color: black;
+  padding: 10px;
+  /*border: 2px solid #fff;*/
+  border-radius: 5px;
+  width: 30%;
+  overflow-y: scroll;
+  max-height: 20%; 
+  
+}
+
+#sidebar h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+#statePlacesList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#statePlacesList li {
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+
+#statePlacesList li:hover {
+  text-decoration: underline;
+} 
+
+/* Places with corresponding category colour*/
+.categoryColorIndicator {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+/* Legend box*/
+.legendBox {
+  position: absolute;
+  top: -8%;
+  right: 0.8%;
+  width: 30%;
+  height: fit-content;
+  background-color: rgba(255, 183, 0, 0.7);
+  padding: 10px;
+  /*border: 2px solid #fff;*/
+  border-radius: 5px;
+  color: black;
+  z-index: 1000; 
+}
+
+.legendCategory:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* legend category */
+.categoryColorIndicator {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.categoryContent {
+  display: none;
+}
+
+/* Images display*/
+.imagebar{
+  position: absolute;
+  top: 50%;
+  right: 0.8%;
+  background-color: rgba(255, 183, 0, 0.7);;
+  color: black;
+  padding: 10px;
+  /*border: 2px solid #fff;*/
+  border-radius: 5px;
+  width: 30%;
+  z-index: 1000; /* Ensure it's above the map */
+  max-height: 47%;
+  overflow-y: scroll;
+}
+
+.place-image {
+  width: 100%; /* Set a width for the image */
+  height: auto; /* Allow the height to adjust proportionally */
+}
+
+/* Icon */
+ul li img {
+  width: 12px; /* Define the desired width */
+  height: 12px; /* Maintain aspect ratio */
+  margin-right: 5px; /* Adjust as needed */
+}
+
+/* copyright */
+.copyright {
+  position: absolute;
+  bottom: -1.5%;
+  size: 1%;
+  font-size: 1;
+  padding: 10px;
+  z-index: 999; /* Set a higher value based on your needs */
+} 
+
